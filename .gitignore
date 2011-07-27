@@ -1,0 +1,6 @@
+/app/config/core.php
+/app/config/database.php
+/app/tmp
+/plugins
+/vendors
+*~
